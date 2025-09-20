@@ -17,10 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/KhalidImran57/instagram_clone/blob/158b0956212743d200be0f60666c5d74d076c43e/1.PNG" alt="App Screenshot 1" width="200" style="margin: 10px;"/>
-  <img src="https://github.com/KhalidImran57/instagram_clone/blob/de5327248ee12fe0a5f1809f1e87ef781f22aee4/2.PNG" alt="App Screenshot 2" width="200" style="margin: 10px;"/>
-  <img src="https://github.com/KhalidImran57/instagram_clone/blob/e1056b0a002ff049df55a8ab4873873192e8a8eb/3.PNG" alt="App Screenshot 3" width="200" style="margin: 10px;"/>
-  <img src="https://github.com/KhalidImran57/instagram_clone/blob/556a9226acde5f558a572511d3ac47c99cfde161/4.PNG" alt="App Screenshot 4" width="200" style="margin: 10px;"/>
-  <img src="https://github.com/KhalidImran57/instagram_clone/blob/4bcf64c36e6b89fb151be80c3404ead8ee9c28a3/5.PNG" alt="App Screenshot 5" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/instagram_clone/blob/158b0956212743d200be0f60666c5d74d076c43e/1.PNG" alt="App Screenshot 1" width="300" style="margin: 30px;"/>
+  <img src="https://github.com/KhalidImran57/instagram_clone/blob/de5327248ee12fe0a5f1809f1e87ef781f22aee4/2.PNG" alt="App Screenshot 2" width="300" style="margin: 30px;"/>
+  <img src="https://github.com/KhalidImran57/instagram_clone/blob/e1056b0a002ff049df55a8ab4873873192e8a8eb/3.PNG" alt="App Screenshot 3" width="300" style="margin: 30px;"/>
+  <img src="https://github.com/KhalidImran57/instagram_clone/blob/556a9226acde5f558a572511d3ac47c99cfde161/4.PNG" alt="App Screenshot 4" width="300" style="margin: 30px;"/>
+  <img src="https://github.com/KhalidImran57/instagram_clone/blob/4bcf64c36e6b89fb151be80c3404ead8ee9c28a3/5.PNG" alt="App Screenshot 5" width="300" style="margin: 30px;"/>
 </p>
 
