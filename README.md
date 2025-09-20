@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ![image alt](https://github.com/KhalidImran57/instagram_clone/blob/de5327248ee12fe0a5f1809f1e87ef781f22aee4/2.PNG)
 ![image alt](https://github.com/KhalidImran57/instagram_clone/blob/556a9226acde5f558a572511d3ac47c99cfde161/4.PNG)
 ![image alt](https://github.com/KhalidImran57/instagram_clone/blob/4bcf64c36e6b89fb151be80c3404ead8ee9c28a3/5.PNG)
-![image alt]()
+![image alt](https://github.com/KhalidImran57/instagram_clone/blob/e1056b0a002ff049df55a8ab4873873192e8a8eb/3.PNG)
 
